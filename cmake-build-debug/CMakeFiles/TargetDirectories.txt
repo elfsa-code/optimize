@@ -1,0 +1,3 @@
+/home/elfsa/hw_day19_BA_3D_2D/BA_3D_2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elfsa/hw_day19_BA_3D_2D/BA_3D_2D/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elfsa/hw_day19_BA_3D_2D/BA_3D_2D/cmake-build-debug/CMakeFiles/BA.dir
